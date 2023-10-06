@@ -82,14 +82,6 @@ red='\e[1;31m'
 green='\e[0;32m'
 NC='\e[0m'
 #IZIN SCRIPT
-MYIP=$(curl https://raw.githubusercontent.com/SETANTAZ/ip/main/ip)
-echo -e "\e[32mloading...\e[0m"
-clear
-#IZIN SCRIPT
-MYIP=$(curl https://raw.githubusercontent.com/SETANTAZ/ip/main/ip)
-echo -e "\e[32mloading...\e[0m"
-clear
-
 # Valid Script
 VALIDITY () {
     today=`date -d "0 days" +"%Y-%m-%d"`
