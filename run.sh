@@ -164,7 +164,7 @@ fi
 echo -e "\e[32mloading...\e[0m"
 clear
 # REPO    
-    REPO="https://github.com/SETANTAZVPN/xva/"
+    REPO="https://github.com/SETANTAZVPN/xva/main/"
 
 ####
 start=$(date +%s)
